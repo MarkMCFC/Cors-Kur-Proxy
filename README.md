@@ -10,4 +10,5 @@ First Sign-Up & Sign-In: https://glitch.com/<br><br>
 7, Copy your URL from the preview pane address bar<br><br>
 
 How to use: <br>
-https://your-url-for.glitch.me/http://your.video.file.here.ts
+https://your-url-for.glitch.me/http://your.video.file.here.ts<br><br>
+Visit https://forum.tfms.xyz for more
